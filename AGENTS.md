@@ -13,3 +13,4 @@ Job descriptions the user saves for you go in [`jobs/`](jobs/README.md). That fo
 ## Changing Resume Matcher's code
 
 If the user wants to **change** Resume Matcher itself, follow [`.claude/CLAUDE.md`](.claude/CLAUDE.md) and [CONTRIBUTING.md](.github/CONTRIBUTING.md). Setup for development is in [SETUP.md](SETUP.md).
+
